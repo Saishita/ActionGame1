@@ -1,0 +1,8 @@
+*.gif filter=lfs diff=lfs merge=fls -text
+*.png filter=lfs diff=lfs merge=fls -text
+*.jpg filter=lfs diff=lfs merge=fls -text
+*.wav filter=lfs diff=lfs merge=fls -text
+*.agg filter=lfs diff=lfs merge=fls -text
+*.mp3 filter=lfs diff=lfs merge=fls -text
+*.asset filter=lfs diff=lfs merge=fls -text
+*.so filter=lfs diff=lfs merge=fls -text
